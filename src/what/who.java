@@ -20,8 +20,8 @@ public class who {
 			a.add("rahul");
 			a.add("shetty");
 			a.add("academy");
-			
-			for (int i=0;i<3;i++)
+			a.add("academye");			
+			for (int i=0;i<4;i++)
 			{
 				System.out.println(a.get(i));
 			}
